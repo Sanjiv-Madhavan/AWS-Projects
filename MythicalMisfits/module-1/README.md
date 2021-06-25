@@ -104,5 +104,5 @@ Congratulations, you have created the basic static Mythical Misfits Website!
 
 That concludes Module 1.
 
-[Proceed to Module 2](/MythicalMisfits/main/module-2)
+[Proceed to Module 2](/MythicalMisfits/module-2)
 
