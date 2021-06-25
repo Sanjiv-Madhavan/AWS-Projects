@@ -295,7 +295,7 @@ git commit -m "I changed the age of one of the misfits."
 git push
 ```
 
-![Pipeline](/MythicalMisfits/images/module-2/pipeline-module-2.png)
+![Pipeline](/MythicalMisfits/images/module-2/Pipeline-module-2.png)
 
 This concludes The project.
 
